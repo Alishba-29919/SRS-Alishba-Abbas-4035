@@ -37,8 +37,11 @@ At the same time, this order is automatically sent to the admin dashboard in the
 The restaurant staff can see the order in real-time, accept it, and start preparing the food.
 
 
-🚀 Key Features
-QR Code Integration: Every table has a unique QR code to access the digital menu instantly.  
+
+
+🚀 Key Features QR Code Integration: 
+
+Every table has a unique QR code to access the digital menu instantly.  
 
 Voice-to-Text Ordering: Customers can "speak" their order (e.g., "Add 2 Burgers and a Coke") instead of clicking.  
 
